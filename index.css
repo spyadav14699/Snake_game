@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
   }
+  
 
   body {
     background: black;
@@ -12,6 +13,7 @@ html, body {
   canvas {
     border: 2px solid white;
   }
+
   h1 {
     color: turquoise;
     font-size: 12px;
