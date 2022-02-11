@@ -12,3 +12,7 @@ html, body {
   canvas {
     border: 2px solid white;
   }
+  h1 {
+    color: turquoise;
+    font-size: 12px;
+  }
