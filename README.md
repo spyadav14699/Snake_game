@@ -14,3 +14,11 @@ The first thing you need to do is to test the game and learn about its functiona
 
 When you finish running and testing the project, your task is to write the project documentation based on what you learned in the task ""Learn about the Markdown markup language and the README.md file"" and what you understood from the project functionality and code. Feel free to ask questions about the creation process, code and any other doubt that comes to your mind.
 
+# How to play
+
+It's really a very easy game. for the functionality you can use your up down left and right key for the direction moving.
+
+# Suggestion
+
+For any suggestion please wirte on spyadav14699@gmail.com
+
